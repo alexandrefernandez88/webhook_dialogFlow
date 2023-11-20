@@ -1,0 +1,38 @@
+const listaCategoria = [
+    {
+        id: 1,
+        categoria: 'Impressora',
+        prazo: "6 horas",
+        urlImagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTMRgYrACM9tj7HZrDu2fAvzTIwd7tZRSGDN0WYdgdCVNvk8ylz03IvntjKxyEnzk33fk&usqp=CAU.jpg"
+    },
+    {
+        id: 2,
+        categoria: 'Email',
+        prazo: "2 horas",
+        urlImagem: "https://img.freepik.com/vetores-gratis/envelope-com-sinal-do-correio-eletronico_1020-530.jpg?size=626&ext=jpg&ga=GA1.2.1775208430.1677375809&semt=ais.jpg" //trocar
+
+    },
+    {
+        id: 3,
+        categoria: 'ERP',
+        prazo: "1 hora",
+        urlImagem: "https://img.freepik.com/vetores-premium/ilustracao-vetorial-de-software-erp_116137-2771.jpg?size=626&ext=jpg&ga=GA1.1.1775208430.1677375809&semt=ais.jpg" //trocar
+
+    },
+    {
+        id: 4,
+        categoria: 'Internet',
+        prazo: "30 minutos",
+        urlImagem: "https://img.freepik.com/vetores-premium/internet-icone-de-vetor-plano_9206-305.jpg?w=740.jpg" //trocar
+
+    },
+    {
+        id: 5,
+        categoria: 'Software',
+        prazo: "10 minutos",
+        urlImagem: "https://img.freepik.com/vetores-gratis/conjunto-de-elementos-e-monitor-de-negocios_24877-56191.jpg?size=626&ext=jpg&ga=GA1.1.1775208430.1677375809&semt=ais.jpg" //trocar
+
+    },
+]
+
+//export default listaCategoria;
